@@ -1,0 +1,13 @@
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.csproj.AssemblyReference.cache
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.Properties.Resources.resources
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.csproj.GenerateResource.cache
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.csproj.CoreCompileInputs.cache
+D:\ss2\ss2\Student_Grading_System\bin\Debug\Student_Grading_System.exe.config
+D:\ss2\ss2\Student_Grading_System\bin\Debug\Student_Grading_System.exe
+D:\ss2\ss2\Student_Grading_System\bin\Debug\Student_Grading_System.pdb
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.exe
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.pdb
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.Student.resources
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.Teacher.resources
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.Login.resources
+D:\ss2\ss2\Student_Grading_System\obj\Debug\Student_Grading_System.Add.resources
